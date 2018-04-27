@@ -15,31 +15,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="3">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="FOUND.css" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/FOUND.css">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="273">
-                    <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="30" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FOUND.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FOUND.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="found.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/found.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
+            <state relative-caret-position="829">
               <caret line="85" column="90" selection-start-line="85" selection-start-column="90" selection-end-line="85" selection-end-column="90" />
             </state>
           </provider>
@@ -74,7 +64,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-5" />
     <option name="y" value="5" />
     <option name="width" value="1200" />
@@ -136,14 +126,16 @@
       <workItem from="1524662061361" duration="9653000" />
       <workItem from="1524672158620" duration="12000" />
       <workItem from="1524717142839" duration="1188000" />
+      <workItem from="1524815143872" duration="914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15396000" />
+    <option name="totallyTimeSpent" value="16310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="4" width="960" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17970401" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -171,6 +163,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/found.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="85" column="90" selection-start-line="85" selection-start-column="90" selection-end-line="85" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FOUND.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2071">
+          <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/found.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1121">
@@ -222,14 +228,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FOUND.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="30" />
+        <state relative-caret-position="539">
+          <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/found.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
+        <state relative-caret-position="829">
           <caret line="85" column="90" selection-start-line="85" selection-start-column="90" selection-end-line="85" selection-end-column="90" />
         </state>
       </provider>
