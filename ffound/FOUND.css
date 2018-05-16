@@ -7,9 +7,9 @@ html,body{
     width: 100%;
 }
 .containe{
-    width: 100%;
-    position: relative;
+    width: 2000px;
     opacity: 0.8;
+    margin: 0 auto;
 }
 .qui-header{
     position: relative;
@@ -107,14 +107,14 @@ html,body{
     font-weight: bold;
     font-size: larger;
 }
-.foot{
+footer{
     position: relative;
     /*border: 1px solid black;*/
     width: 1820px;
     height: 80px;
     margin: 0 auto;
 }
-.foot>span{
+footer>span{
     position: absolute;
     margin: 20px auto;
     height: 40px;
